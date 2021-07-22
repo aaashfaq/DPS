@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence Challange Assesment Test
 
-Instructions have been followed as given in the https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#1
+All the instruction have been followed for the completion of the Technical Challenge test. 
 
 #### Prediction of the fuel efficiency of a vehicle using a basic regression with TensorFlow
 
