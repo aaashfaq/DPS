@@ -1,5 +1,6 @@
 # DPS
-DPS_Challange_AI
+## DPS_Challange_AI
 
-Artificial Intelligence Challange Assesment Test.
+Artificial Intelligence Challange Assesment Test
+
 Instructions have been followed as given
