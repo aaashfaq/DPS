@@ -4,7 +4,7 @@
 
 Instructions have been followed as given in the https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#1
 
-### MODEL:  Prediction of the fuel efficiency of a vehicle using a basic regression with TensorFlow
+#### Prediction of the fuel efficiency of a vehicle using a basic regression with TensorFlow
 
 DATASET: "https://storage.googleapis.com/io-vertex-codelab/auto-mpg.csv"
 Auto MPG dataset from Kaggle
