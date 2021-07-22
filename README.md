@@ -14,6 +14,8 @@ Train:Test Split= 80:20%
 
 #### Prediction 
 1) Deployed end point can be used to do the prediction by 
+"https://console.cloud.google.com/vertex-ai/locations/us-central1/endpoints/7993519902675697664?cloudshell=true&project=dps-usama"
+                                    OR
 2) Set the path to the trainer folder after downloading the project and run "python3 predict.py"
 
 
