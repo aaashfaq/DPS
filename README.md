@@ -27,9 +27,10 @@ There are three folders in the repository:
 1. model-3818920542614847488
 2. mpg/model
 3. trainer
+4. WhatsApp Video 2021-07-23 at 9.55.13 AM (1).mp4
 
 The "trainer" folder contains the code used to build the ML model in python. The other two folders are generated in Vertex AI (Google Console)
-
+WhatsApp Video 2021-07-23 at 9.55.13 AM (1).mp4 file contains the code explanation for the extra bonus points
 ## References
 
 1. https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#0
